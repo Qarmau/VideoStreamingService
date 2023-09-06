@@ -1,6 +1,6 @@
 # VideoStreamingService
 A django project to host videos online
-# initailize 
+# initialize 
 install dependencies by running the command; pip install -r requirements.txt
 run the command python manage.py runserver
 run; python manage.py createsuperuser # to create an admin account.
